@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Unicode">
+    <output-path>$USER_HOME$/Desktop/Server Stuff/1.13.2/plugins</output-path>
+    <root id="archive" name="Unicode.jar">
+      <element id="module-output" name="Unicode" />
+    </root>
+  </artifact>
+</component>

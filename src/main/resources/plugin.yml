@@ -1,0 +1,10 @@
+name: Unicode
+version: ${project.version}
+main: com.asudev.unicode.Unicode
+api-version: 1.13
+authors: [AsuDev]
+description: Unicode stuff with font.
+commands:
+  resolution:
+    description: Resolution stuff.
+    aliases: [res]
